@@ -1,0 +1,12 @@
+name = "tegma-avarias-0km"
+pages_build_output_dir = "."
+compatibility_date = "2026-11-12"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tegma-avarias"
+database_id = "COLOQUE_AQUI_O_ID_DO_D1"
+
+[[r2_buckets]]
+binding = "PHOTOS"
+bucket_name = "tegma-avarias-fotos"
