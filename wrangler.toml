@@ -5,7 +5,7 @@ compatibility_date = "2026-11-12"
 [[d1_databases]]
 binding = "DB"
 database_name = "tegma-avarias"
-database_id = "COLOQUE_AQUI_O_ID_DO_D1"
+database_id = "5dcc963f-aeb9-4578-a35c-669e9a8b8bea"
 
 [[r2_buckets]]
 binding = "PHOTOS"
